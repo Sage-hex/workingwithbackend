@@ -1,0 +1,11 @@
+button {
+    background-color: var(--green-btn-color);
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: max-content;
+    cursor: pointer;
+    /* margin: 1rem; */
+    
+}

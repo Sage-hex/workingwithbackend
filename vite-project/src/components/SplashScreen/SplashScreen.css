@@ -1,0 +1,22 @@
+/* 
+
+.splash-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fff;
+  }
+  
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .logo {
+    font-size: 150px;
+    color: #1a1f71; 
+  }
+   */
