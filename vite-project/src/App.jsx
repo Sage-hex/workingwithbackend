@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './components/Header/Header'
 import Success from './components/Success/Success'
+import TodoList from './components/TodoList/TodoList'
 
 const App = () => {
 
@@ -8,7 +9,8 @@ const App = () => {
   return (
     <main>
       <Header/>
-      <Success/>
+      {/* <Success/> */}
+      {/* <TodoList/> */}
     </main>
   )
 }
